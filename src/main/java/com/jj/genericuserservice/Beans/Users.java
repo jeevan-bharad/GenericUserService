@@ -1,5 +1,4 @@
 package com.jj.genericuserservice.Beans;
-
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
 
